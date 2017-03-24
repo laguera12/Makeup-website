@@ -15,9 +15,13 @@ font-family: 'Bad Script', cursive;
 }
 p{
 color: black;
-font-size: 38px
+font-size: 38px;
 
 }
 body {
 	background-color: #00ffd4 ;
+}
+ul {
+	color: purple;
+	font-size: 38px;
 }
